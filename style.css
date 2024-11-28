@@ -1,0 +1,116 @@
+body{
+    background: url(fundo2.jpg);
+    background-image: center;
+    background-repeat: repeat;
+}
+
+.titulo{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    margin-bottom: 40px;
+    text-decoration: underline;
+
+}
+
+.capa{
+    text-align: center;
+    border-radius: 15px;
+   
+}
+
+.capa1{
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 80px;
+    width: 520px;
+    height: 384px;
+   
+}
+
+.subtitulo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    margin-bottom: 30px;
+    text-decoration: underline;
+
+}
+
+.texto{
+    display: flex;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.imagem-1{
+    display: flex;
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 45px;
+    margin-left: 440px;
+    width: 450px;
+    height: 330px;
+}
+
+.imagem-2{
+    display: flex;
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 45px;
+    margin-left: 440px;
+    width: 450px;
+    height: 300px;
+}
+
+.imagem-3{
+    display: flex;
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 45px;
+    margin-left: 440px;
+    width: 450px;
+    height: 300px;
+}
+
+.imagem-4{
+    display: flex;
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 45px;
+    margin-left: 440px;
+    width: 450px;
+    height: 300px;
+}
+
+.imagem-5{
+    display: flex;
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 45px;
+    margin-left: 440px;
+    width: 450px;
+    height: 300px;
+}
+
+.imagem-6{
+    display: flex;
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 45px;
+    margin-left: 440px;
+    width: 450px;
+    height: 300px;
+}
+
+.imagem-7{
+    display: flex;
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 45px;
+    margin-left: 440px;
+    width: 450px;
+    height: 300px;
+}

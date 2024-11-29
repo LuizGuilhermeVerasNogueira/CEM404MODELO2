@@ -1,0 +1,2 @@
+Oi, pessoal! Me chamo Luiz Guilherme e estou participando do programa Programadores do Futuro. Para o meu projeto final, decidi criar um site novinho em folha para a nossa querida Escola CEM 404! A ideia é deixar a escola ainda mais conectada com os alunos, professores e a comunidade, oferecendo informações importantes e um espaço legal.
+O principal objetivo desse projeto é desenvolver um site moderno e fácil de usar para a Escola CEM 404. Nele, os visitantes poderão encontrar informações sobre a escola.
